@@ -1,3 +1,14 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'anatole'
+
+[params]
+title = "Jiang's Website"
+author = "Ph.D Jiang"
+description = """
+aaaa
+bbbbb
+ccc
+"""
+profilePicture = "images/head.jpg"
